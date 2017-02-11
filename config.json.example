@@ -1,0 +1,11 @@
+{
+    "host": "freenode",
+    "port" : "6667",
+    "password" : "",
+    "channels" : [
+        "#irc"
+    ],
+    "nickname" : "Guest42",
+
+    "debug" : false
+}
